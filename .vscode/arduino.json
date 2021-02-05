@@ -1,0 +1,6 @@
+{
+    "board": "adafruit:samd:adafruit_pyportal_m4_titano",
+    "configuration": "cache=on,speed=120,opt=small,maxqspi=50,usbstack=arduino,debug=off",
+    "port": "COM17",
+    "sketch": "wormhole\\wormhole.ino"
+}
